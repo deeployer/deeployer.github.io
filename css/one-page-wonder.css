@@ -62,7 +62,7 @@ header.masthead {
     background: url("../img/background.png");
     background-repeat: no-repeat;
     background-position: center center;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
 }
 

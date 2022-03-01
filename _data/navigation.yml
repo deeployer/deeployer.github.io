@@ -1,6 +1,8 @@
 # main links links
 main:
   - title: "Blog"
+    url: https://deeployer.com/
+  - title: "Blog"
     url: /year-archive/
   - title: "About"
     url: /_pages/about/

@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "home"
     url: https://deeployer.com/
-  - title: "Blog"
+  - title: "blog"
     url: /year-archive/
-  - title: "About"
+  - title: "about"
     url: /_pages/about/
-  - title: "Contact"
+  - title: "contact"
     url: /_pages/contact/
 
 # sidebar navigation list sample

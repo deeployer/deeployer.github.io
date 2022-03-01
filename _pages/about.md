@@ -9,7 +9,7 @@ To make data value human potential to help build a fair and equitable society.
 
 # Our values
 
-Enthusiasm, Respect, Integraty and Professionalism.
+Enthusiasm, Respect, Integrity and Professionalism.
 
 # Our mission
 

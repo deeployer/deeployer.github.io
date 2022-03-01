@@ -9,4 +9,4 @@ tags:
   - test
 ---
 
-Hellow, World! We are Deeployer and we are looking foward to deeploy cool stuff for you!
+Hello, World! We are Deeployer and we are looking foward to deeploy cool stuff for you!

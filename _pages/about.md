@@ -5,12 +5,12 @@ author_profile: false
 
 ## Our vision
 
-To-do
+To make data value human potential to help build a fair and equitable society. 
 
 ## Our values
 
-To-do
+Enthusiasm, Respect, Integraty and Professionalism.
 
 ## Our mission
 
-To-do
+Deeployer is a socially-responsible company, and we are committed to making a substantial contribution towards achieving valuable data science deliverables to our clients. We focus on long-term relationship by having partners more than customers and helping to build an ethical data community.

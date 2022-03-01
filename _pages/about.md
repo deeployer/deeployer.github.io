@@ -3,8 +3,6 @@ layout: home
 author_profile: false
 ---
 
-# About
-
 ## Our vision
 
 To-do

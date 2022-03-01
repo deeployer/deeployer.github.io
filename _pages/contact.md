@@ -3,6 +3,8 @@ layout: home
 author_profile: false
 ---
 
-# Contact
+## How can we help you?
 
-contato@deeployer.com
+Tell us by sending an e-mail:
+<br/>
+<a href="mailto:contato@deeployer.com">contato@deeployer.com</a>

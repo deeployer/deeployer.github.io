@@ -10,9 +10,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "Deeployer"
+title                    : " "
 title_separator          : "-"
-subtitle                 : # "Data Science and more!"
+subtitle                 : " "
 name                     : # "Deeployer Consulting"
 description              : "Deployer's website"
 url                      : "https://deeployer.com"

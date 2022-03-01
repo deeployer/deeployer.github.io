@@ -3,14 +3,14 @@ layout: home
 author_profile: false
 ---
 
-## Our vision
+# Our vision
 
 To make data value human potential to help build a fair and equitable society. 
 
-## Our values
+# Our values
 
 Enthusiasm, Respect, Integraty and Professionalism.
 
-## Our mission
+# Our mission
 
 Deeployer is a socially-responsible company, and we are committed to making a substantial contribution towards achieving valuable data science deliverables to our clients. We focus on long-term relationship by having partners more than customers and helping to build an ethical data community.

@@ -14,7 +14,7 @@ title                    : "deeployer"
 title_separator          : "-"
 subtitle                 : "for all your data science needs"
 name                     : # "Deeployer Consulting"
-description              : "Deployer's website"
+description              : "deployer's website"
 url                      : "https://deeployer.com"
 baseurl                  : "/"
 repository               : "deeployer/deeployer.github.io"
@@ -89,7 +89,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deeployer"
+  name             : "deeployer"
   avatar           : "/assets/images/Deeployer-Logo-Hexagon-Avatar.png"
   bio              : "We are looking foward to deeploy cool stuff for you!"
   location         : "São Paulo / Brazil"

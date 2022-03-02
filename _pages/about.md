@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: splash
 author_profile: false
 header:

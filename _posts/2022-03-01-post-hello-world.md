@@ -1,7 +1,7 @@
 ---
 title: "Hello, World!"
 header:
-  image: /assets/images/unsplash-image-4.jpg
+  image: /assets/images/unsplash-image-2.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - sample post

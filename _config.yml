@@ -94,9 +94,9 @@ author:
   bio              : "We are looking foward to deeploy cool stuff for you!"
   location         : "São Paulo / Brazil"
   links:
-    - label: "Your Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://deeployer.com"
+      url: "https://www.linkedin.com/company/deeployer/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deeployer"
@@ -280,22 +280,6 @@ defaults:
     values:
       layout: splash
       author_profile: false
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
   # _portfolio
   - scope:
       path: ""

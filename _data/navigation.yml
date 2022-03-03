@@ -5,6 +5,6 @@ main:
   - title: "blog"
     url: /year-archive/
   - title: "about"
-    url: /_pages/about/
+    url: /about/
   - title: "contact"
-    url: /_pages/contact/
+    url: /contact/

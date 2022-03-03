@@ -1,12 +1,11 @@
 ---
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 layout: splash
 author_profile: false
 header:
   image: "/assets/images/deeployer-header-slim.png"
 ---
+* TOC
+{:toc}
 
 # our vision
 

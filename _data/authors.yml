@@ -1,23 +1,26 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+Deeployer:
+  name        : "Deeployer"
+  bio         : "Data Science: data analytics, predictive analysis, data mining, machine learning, deep learning, statistics and more."
+  avatar      : "/assets/images/Deeployer-Logo-Hexagon-Avatar.png"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://www.linkedin.com/company/deeployer/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/deeployer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/deeployer"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/deeployer"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
+John Doe:
+  name        : "John Doe"
+  bio         : "Hey you!"
   avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Email"

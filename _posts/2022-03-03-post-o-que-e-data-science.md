@@ -1,6 +1,5 @@
 ---
 title: "O que é Data Science?"
-author: Deeployer
 header:
   image: /assets/images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

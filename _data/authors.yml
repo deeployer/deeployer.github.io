@@ -4,6 +4,7 @@ Deeployer:
   name        : "Deeployer"
   bio         : "Data Science: data analytics, predictive analysis, data mining, machine learning, deep learning, statistics and more."
   avatar      : "/assets/images/Deeployer-Logo-Hexagon-Avatar.png"
+  location    : "São Paulo / Brazil"  
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"

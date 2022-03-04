@@ -2,7 +2,7 @@
 title: "Hello, World!"
 author: Deeployer
 header:
-  image: /assets/images/unsplash-image-2.jpg
+  image: /assets/images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - data science 101
@@ -16,4 +16,4 @@ Em português: "A quantidade total de entropia no universo pode ser revertida?".
 
 > Insifucient data for meaningful answer.
 
-A conclusão inicial, "Dados insufucientes para resposta significativa" em português, 
+A conclusão inicial, "Dados insufucientes para resposta significativa" em português, expressa o impacto angustiante no imediatismo humano. 

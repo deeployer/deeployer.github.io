@@ -1,6 +1,6 @@
 # deeployer.github.io
 
-## Welcome! =)
+:v: Check our site out at [https://deeployer.com](https://deeployer.com).
 
 Find us on: 
 

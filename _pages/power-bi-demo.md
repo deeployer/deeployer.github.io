@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: splash
 author_profile: false
 permalink: /power-bi-demo/
 ---

@@ -21,7 +21,7 @@ Deeployer:
 
 John Doe:
   name        : "John Doe"
-  bio         : "Hey you!"
+  bio         : "Hey, you!"
   avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Email"

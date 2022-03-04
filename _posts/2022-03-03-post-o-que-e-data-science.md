@@ -16,4 +16,4 @@ Em português: "A quantidade total de entropia no universo pode ser revertida?".
 
 > Insifucient data for meaningful answer.
 
-A conclusão inicial, "Dados insufucientes para resposta significativa" em português, expressa o impacto angustiante no imediatismo humano. 
+A conclusão inicial, "Dados insuficientes para resposta significativa" em português, expressa o impacto angustiante no imediatismo humano. 

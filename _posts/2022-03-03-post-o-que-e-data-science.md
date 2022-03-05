@@ -8,7 +8,7 @@ tags:
   - data science 101
 ---
 
-Em seu fantástico conto entitulado _"The Last Question"_, Isaac Asimov narra a humanidade confrontando seus próprios limites tecnológicos em busca da resposta para uma simples pergunta sobre o inevitável fim do universo: 
+Em seu fantástico conto intitulado _"The Last Question"_, Isaac Asimov narra a humanidade confrontando seus próprios limites tecnológicos em busca da resposta para uma simples pergunta sobre o inevitável fim do universo: 
 
 > How can the net amount of entropy of the universe be massively decreased?
 
@@ -31,7 +31,7 @@ Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos
 - **Entender as perguntas formuladas** e definir objetivos para os problemas que precisam ser solucionados;
 - **Obter e definir os dados**, identificando potenciais conjuntos de dados e extraindo de suas fontes geradoras para algum repositório;
 - **Preparar os dados**, examinando e entendendo cada atributo, identificando erros e discrepâncias, valores ausentes ou dados corrompidos. Tudo isso através de um processo de limpeza dos dados, onde alguns podem ser descartados, outros convertidos em outros tipos de dados, e outros mantidos como estão;
-- **Explorar e modelar os dados**, através de segmentação, plotagem das inormações de diferentes formas, identificando padrões, extraindo características e atributos, usando técnicas estatísticas para testar as variáveis envolvidas;
+- **Explorar e modelar os dados**, através de segmentação, plotagem das informações de diferentes formas, identificando padrões, extraindo características e atributos, usando técnicas estatísticas para testar as variáveis envolvidas;
 - **Interpretar e entregar os dados**, criando modelos preditivos ou outros tipos de modelos, inclusive retornando para os passos anteriores se necessário. Apresentando os dados utilizando gráficos e visualizações apropriadas e que ajuda a contar a história por trás do dado para que as perguntas iniciais sejam respondidas.
 
 Os passos acima descrevem o processo geral de trabalho de um cientista de dados. A concepção moderna da Ciência de Dados ou **Data Science** ganhou destaque nos anos 2000 como uma área interdisciplinar voltada para a expansão da estatística para além da teoria, visando sua aplicação para áreas técnicas de forma prática valendo-se de inúmeras tecnologias emergentes e áreas de estudo.
@@ -47,15 +47,16 @@ Algumas das aplicações de Data Science incluem:
 - Mitigação de riscos e fraudes, onde os cientistas de dados são treinados para identificar dados que se destacam de alguma forma;
 - Entrega de produtos relevantes, sendo uma das vantagens da ciência de dados a capacidade dada às organizações de poderem descobrir quando e onde seus produtos são mais vendidos;
 - Experiências personalizadas do cliente, como um dos benefícios mais interessantes da ciência de dados, provendo a capacidade das equipes de vendas e marketing de entender seu público em um nível muito granular;
-- Criação de sistemas de recomendação, onde é posivel fazer a previsão com base no interesse do visitante e na relevância da informação;
-- Reconhecimento de imagem e fala, valendo-se da criação de modelos específicos para avaliar quantidades gigantescas de dados para identificação de padrões e características que possam ser usada na tomada de decisões;
+- Criação de sistemas de recomendação, onde é possivel fazer a previsão com base no interesse do visitante e na relevância da informação;
+- Reconhecimento de imagem e fala, valendo-se da criação de modelos específicos para avaliar quantidades gigantescas de dados para identificação de padrões e características que possam ser usadas na tomada de decisões;
 - Análises voltadas para a indústria de games, usando algoritmos que se atualizam quando o jogador avança na história do jogo, analisando movimentos e se adaptando ao estilo do jogador, criando experiências únicas;
 - Setor da Saúde, com inúmeras possibilidades de estudos comparativos, diagnósticos, tratamentos e busca por _insights_ para melhorar a qualidade de vida dos pacientes;
-- Setor Financeito, aplicando modelos para análise de crédito, previsão de investimentos e análise de riscos, entre outras possibilidades;
+- Setor Financeiro, aplicando modelos para análise de crédito, previsão de investimentos e análise de riscos, entre outras possibilidades;
 - Análise de Redes Sociais, sendo possível analisar o sentimento das postagens, identificar grupos de usuários, criar relacionamentos e interações entre pessoas...
-- ... e muitas outras possibilidades e todos os campos de fornecimento de serviços e indústiras!
+- ... e muitas outras possibilidades em todos os campos de fornecimento de serviços e indústrias!
 
+A [Deeployer](mailto:contato@deeployer.com) é uma empresa de ciência de dados como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podemos ajudar a sua empresa a crescer.
 
-## Referêcias utilizadas neste post:
+## Referências utilizadas neste post:
 - **Isaac Asimov**, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.
 - Artigo [How Much Data Is Created Every Day in 2022?](https://techjury.net/blog/how-much-data-is-created-every-day/#gref), com levantamento sobre a quantidade de dados disponíveis na Web, por [Jacquelyn Bulao](https://techjury.net/author/jackieb/). 

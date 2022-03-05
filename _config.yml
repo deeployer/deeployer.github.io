@@ -58,6 +58,11 @@ algolia:
   search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
   powered_by             : true
 
+# multilingual
+# lang: en 
+# languages: ["en", "pt"] 
+# permalink: /:categories/:year/:month/:day/:title/
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

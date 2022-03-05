@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 author_profile: false
 header:
   image: "/assets/images/deeployer-website-headers-about.png"

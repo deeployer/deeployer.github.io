@@ -1,6 +1,6 @@
 ---
 title: "O que é Data Science?"
-author: Deeployer
+author: Leandro Daniel
 header:
   image: "/assets/images/deeployer-website-headers-entropy.png"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

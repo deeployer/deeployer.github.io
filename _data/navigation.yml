@@ -12,7 +12,7 @@ main:
 
 # sidebar menu links
 about:
-  - title: About
+  - title: What's here?
     children:
       - title: "our vision"
         url: "https://deeployer.com/about/#our-vision"

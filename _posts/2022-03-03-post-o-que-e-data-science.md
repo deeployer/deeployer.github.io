@@ -40,7 +40,7 @@ Os passos acima descrevem o processo geral de trabalho de um cientista de dados.
 
 # Data Science e a incrível jornada dos dados 
 
-
+Com a crescente expansão das tecnologias e opções para interação com dados, Data Science se tornou uma das maiores e mais diversas áreas de estudo e pesquisa.
 
 Algumas das aplicações de Data Science incluem:
 
@@ -56,6 +56,8 @@ Algumas das aplicações de Data Science incluem:
 - ... e muitas outras possibilidades em todos os campos de fornecimento de serviços e indústrias!
 
 A [Deeployer](mailto:contato@deeployer.com) é uma empresa de ciência de dados como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podemos ajudar a sua empresa a crescer.
+
+Até o próximo post!
 
 ## Referências utilizadas neste post:
 - **Isaac Asimov**, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.

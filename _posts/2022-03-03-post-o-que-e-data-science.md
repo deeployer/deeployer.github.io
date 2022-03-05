@@ -63,4 +63,5 @@ Até o próximo post!
 
 ## Referências utilizadas neste post:
 - **Isaac Asimov**, de origem russo-judaica radicou-se nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram presentes. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.
+- **Entropia** é uma importante grandeza física utilizada na Mecânica Estatística e na Termodinâmica para medir o grau de desordem de um sistema, ou seja, quanto maior for a variação de entropia de um sistema, maior será sua desordem, o que implica que menos energia estará disponível para ser utilizada.
 - Artigo [How Much Data Is Created Every Day in 2022?](https://techjury.net/blog/how-much-data-is-created-every-day/#gref), com levantamento sobre a quantidade de dados disponíveis na Web, por [Jacquelyn Bulao](https://techjury.net/author/jackieb/). 

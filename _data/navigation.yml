@@ -8,6 +8,3 @@ main:
     url: /about/
   - title: "contact"
     url: /contact/
-    sub:
-      - title: "menu item 1.1"
-        href: "/menuLevel1/menuLevel2/file.md"

@@ -12,8 +12,14 @@ Em seu fantástico conto entitulado _"The Last Question"_, Isaac Asimov narra a 
 
 > How can the net amount of entropy of the universe be massively decreased?
 
+No conto, o gigante computador Multivac, que é capaz de processar milhões de dados em segundos, é alimentado com a pergunta e gera o seguinte resultado para assombro dos seus usuários:
+
 Ou em português, "A quantidade total de entropia no universo pode ser revertida?".
 
 > Insifucient data for meaningful answer.
 
-A conclusão inicial, "Dados insuficientes para resposta significativa" em português, expressa o impacto angustiante no imediatismo humano. 
+A conclusão inicial, "Dados insuficientes para resposta significativa" em português, expressa o impacto angustiante no imediatismo humano frente a sua jornada incessante de expansão e ocupação dos espaços existentes. 
+
+Isaac Asimov, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu antecipar conceitos tecnológicos de forma assombrosa, se mostrando um visionário em antecipar diversos avanços e dasafios que até nos dias atuais se mostram verdadeiros.
+
+# Dados insuficientes para resposta significativa

@@ -6,6 +6,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - data science 101
+  - pt-br
 ---
 
 Em seu fantástico conto intitulado _"The Last Question"_, Isaac Asimov narra a humanidade confrontando seus próprios limites tecnológicos em busca da resposta para uma simples pergunta sobre o inevitável fim do universo: 

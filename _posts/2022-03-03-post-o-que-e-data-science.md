@@ -22,11 +22,12 @@ A conclusão inicial, "Dados insuficientes para resposta significativa" em portu
 
 # Dados insuficientes para resposta significativa
 
-Passados 66 anos desde que Isaac Asimova escreveu o conto, estima-se que a quantidade de dados gerados por cada indivíduo com um computador ou smarthphone em 2020 foi de 1,7 MB de dados a cada segundo. 
+Passados 66 anos desde que Isaac Asimov escreveu o conto, estima-se que a quantidade de dados gerados por cada indivíduo com um computador ou smarthphone em 2020 foi de 1,7 MB de dados a cada segundo. 
 
-Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados.
+Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados. Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
 
-Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
+Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos capazes de responder como reverter a entropia no universo. Por outro lado, a uma taxa de crescimento exponencial, definitivamente podemos responder a mais perguntas do que somos capazes de formular com os dados disponíveis.
+
 
 ## Referêcias utilizadas neste post:
 - **Isaac Asimov**, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.

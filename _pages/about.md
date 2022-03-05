@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: false
+title: "About"
 header:
   image: "/assets/images/deeployer-website-headers-about.png"
 permalink: /about/

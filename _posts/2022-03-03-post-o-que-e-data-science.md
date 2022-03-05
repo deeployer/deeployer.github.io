@@ -23,3 +23,14 @@ A conclusão inicial, "Dados insuficientes para resposta significativa" em portu
 Isaac Asimov, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu antecipar conceitos tecnológicos de forma assombrosa, se mostrando um visionário em antecipar diversos avanços e dasafios que até nos dias atuais se mostram verdadeiros.
 
 # Dados insuficientes para resposta significativa
+
+Estima-se que a quantidade de dados gerados por cada indivíduo com um computador ou smarthphone em 2020 foi de 1,7 MB de dados a cada segundo. 
+
+Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados.
+
+Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
+
+### Referêcias
+- https://techjury.net/blog/how-much-data-is-created-every-day/#gref
+
+{% bibliography --cited --file My-Awesome-Tutorial/master_refs.bib  %}

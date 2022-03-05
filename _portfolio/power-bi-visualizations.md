@@ -1,15 +1,13 @@
 ---
-title: "Power BI Visualizations"
+title: "Power BI visualizations"
 excerpt: "Atualização online sobre KPIs e relatórios - os aplicativos do Power BI oferecem uma visão completa sobre os dados, de qualquer lugar, a qualquer momento."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-power-bi.png"
 sidebar:
-  - title: "Role"
-    image: "/assets/images/Deeployer-Logo-Hexagon-Avatar.png"
-    image_alt: "Deeployer"
+  - title: "Technologies involved"
     text: "Power BI, AWS, Databricks, Python"
-  - title: "Responsibilities"
+  - title: "What was deeployed?"
     text: "Build the data lake by loading from the data source to raw archive."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg

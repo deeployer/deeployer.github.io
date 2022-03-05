@@ -62,5 +62,5 @@ Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podem
 Até o próximo post!
 
 ## Referências utilizadas neste post:
-- **Isaac Asimov**, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.
+- **Isaac Asimov**, de origem russo-judaica radicou-se nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.
 - Artigo [How Much Data Is Created Every Day in 2022?](https://techjury.net/blog/how-much-data-is-created-every-day/#gref), com levantamento sobre a quantidade de dados disponíveis na Web, por [Jacquelyn Bulao](https://techjury.net/author/jackieb/). 

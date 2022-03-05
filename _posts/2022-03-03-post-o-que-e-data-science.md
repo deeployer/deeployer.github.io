@@ -20,7 +20,7 @@ No conto, o gigante computador _Multivac_, que é capaz de processar milhões de
 
 A conclusão inicial, "Dados insuficientes para resposta significativa" em português, expressa o impacto angustiante no imediatismo humano frente a sua jornada incessante de expansão e ocupação dos espaços existentes. 
 
-Isaac Asimov, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu antecipar conceitos tecnológicos de forma assombrosa, se mostrando um visionário em antecipar diversos avanços e dasafios que até nos dias atuais se mostram verdadeiros.
+Isaac Asimov, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros.
 
 # Dados insuficientes para resposta significativa
 
@@ -32,5 +32,3 @@ Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
 
 ### Referêcias
 - https://techjury.net/blog/how-much-data-is-created-every-day/#gref
-
-{% bibliography --cited --file My-Awesome-Tutorial/master_refs.bib  %}

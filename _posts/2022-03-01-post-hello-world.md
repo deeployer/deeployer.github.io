@@ -2,7 +2,7 @@
 title: "Hello, World!"
 author: Deeployer
 header:
-  image: /assets/images/unsplash-image-2.jpg
+  image: /assets/images/deeployer-website-headers-typewritter.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - deeployer

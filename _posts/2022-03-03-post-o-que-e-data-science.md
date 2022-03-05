@@ -40,6 +40,8 @@ Os passos acima descrevem o processo geral de trabalho de um cientista de dados.
 
 # Data Science e a incrível jornada dos dados 
 
+
+
 Algumas das aplicações de Data Science incluem:
 
 - Mitigação de riscos e fraudes, onde os cientistas de dados são treinados para identificar dados que se destacam de alguma forma;

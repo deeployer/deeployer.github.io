@@ -36,6 +36,24 @@ Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos
 
 Os passos acima descrevem o processo geral de trabalho de um cientista de dados. A concepção moderna da Ciência de Dados ou **Data Science** ganhou destaque nos anos 2000 como uma área interdisciplinar voltada para a expansão da estatística para além da teoria, visando sua aplicação para áreas técnicas de forma prática valendo-se de inúmeras tecnologias emergentes e áreas de estudo.
 
+> _"Data Science é uma abordagem multidisciplinar para a obtenção e análise de dados, geração de insights e suporte para tomada de melhores decisões, sejam elas tomadas por pessoas ou máquinas."_
+
+# Data Science e a incrível jornada dos dados 
+
+Algumas das aplicações de Data Science incluem:
+
+- Mitigação de riscos e fraudes, onde os cientistas de dados são treinados para identificar dados que se destacam de alguma forma;
+- Entrega de produtos relevantes, sendo uma das vantagens da ciência de dados a capacidade dada às organizações de poderem descobrir quando e onde seus produtos são mais vendidos;
+- Experiências personalizadas do cliente, como um dos benefícios mais interessantes da ciência de dados, provendo a capacidade das equipes de vendas e marketing de entender seu público em um nível muito granular;
+- Criação de sistemas de recomendação, onde é posivel fazer a previsão com base no interesse do visitante e na relevância da informação;
+- Reconhecimento de imagem e fala, valendo-se da criação de modelos específicos para avaliar quantidades gigantescas de dados para identificação de padrões e características que possam ser usada na tomada de decisões;
+- Análises voltadas para a indústria de games, usando algoritmos que se atualizam quando o jogador avança na história do jogo, analisando movimentos e se adaptando ao estilo do jogador, criando experiências únicas;
+- Setor da Saúde, com inúmeras possibilidades de estudos comparativos, diagnósticos, tratamentos e busca por _insights_ para melhorar a qualidade de vida dos pacientes;
+- Setor Financeito, aplicando modelos para análise de crédito, previsão de investimentos e análise de riscos, entre outras possibilidades;
+- Análise de Redes Sociais, sendo possível analisar o sentimento das postagens, identificar grupos de usuários, criar relacionamentos e interações entre pessoas...
+- ... e muitas outras possibilidades e todos os campos de fornecimento de serviços e indústiras!
+
+
 ## Referêcias utilizadas neste post:
 - **Isaac Asimov**, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.
 - Artigo [How Much Data Is Created Every Day in 2022?](https://techjury.net/blog/how-much-data-is-created-every-day/#gref), com levantamento sobre a quantidade de dados disponíveis na Web, por [Jacquelyn Bulao](https://techjury.net/author/jackieb/). 

@@ -26,7 +26,7 @@ Passados 66 anos desde que Isaac Asimov escreveu o conto, estima-se que a quanti
 
 Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados. Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
 
-Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos capazes de responder como reverter a entropia no universo. Por outro lado, a uma taxa de crescimento exponencial, definitivamente podemos responder a mais perguntas do que somos capazes de formular com os dados disponíveis.
+Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos capazes de responder como reverter a entropia no universo. Por outro lado, a uma taxa de crescimento exponencial, definitivamente podemos responder a mais perguntas do que somos capazes de formular com os dados disponíveis. A **resposta significativa** depende muito mais de encontrar os as fontes de dados corretos, executar processos de preparação, análise, formulação e apresentação de dados.
 
 
 ## Referêcias utilizadas neste post:

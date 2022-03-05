@@ -4,10 +4,10 @@ main:
     url: https://deeployer.com/
   - title: "blog"
     url: /year-archive/
-  - title: "about"
-    url: /about/
   - title: "portfolio"
     url: /portfolio/
+  - title: "about"
+    url: /about/
   - title: "contact"
     url: /contact/
 

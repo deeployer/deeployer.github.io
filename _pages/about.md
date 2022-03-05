@@ -4,10 +4,9 @@ author_profile: false
 header:
   image: "/assets/images/deeployer-website-headers-about.png"
 permalink: /about/
+sidebar:
+  nav: "about"
 ---
-* TOC
-{:toc}
-
 # our vision
 
 To make data value human potential to help build a fair and equitable society. 

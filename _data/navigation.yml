@@ -6,6 +6,8 @@ main:
     url: /year-archive/
   - title: "about"
     url: /about/
+  - title: "portfolio"
+    url: /portfolio/
   - title: "contact"
     url: /contact/
 

@@ -2,7 +2,7 @@
 title: "O que é Data Science?"
 author: Deeployer
 header:
-  image: /assets/images/deeployer-website-headers-entropy.png
+  image: "/assets/images/deeployer-website-headers-entropy.png"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - data science 101

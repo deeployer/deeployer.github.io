@@ -26,14 +26,15 @@ Passados 66 anos desde que Isaac Asimov escreveu o conto, estima-se que a quanti
 
 Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados. Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
 
-Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos capazes de responder como reverter a entropia no universo. Por outro lado, a uma taxa de crescimento exponencial, definitivamente podemos responder a mais perguntas do que somos capazes de formular com os dados disponíveis. A **resposta significativa**, portanto, depende muito mais de: 
+Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos capazes de responder como reverter a entropia no universo. Por outro lado, a uma taxa de crescimento exponencial, definitivamente podemos responder a mais perguntas do que somos capazes de formular com os dados disponíveis. A **resposta significativa**, portanto, depende essencialmente de: 
 
-- Entender as perguntas formuladas e definir objetivos para os problemas que precisam ser solucionados;
-- Obter e definir os dados, identificando potenciais conjuntos de dados e extraindo de suas fontes geradoras para algum repositório;
-- Preparar os dados, examinando e entendendo cada atributo, identificando erros e discrepâncias, valores ausentes ou dados corrompidos. Tudo isso através de um processo de limpeza dos dados, onde alguns podem ser descartados, outros convertidos em outros tipos de dados, e outros mantidos como estão;
-- Eplxorar e modelar os dados, através de segmentação, plotagem das inormações de diferentes formas, identificando padrões, extraindo características e atributos, usando técnicas estatísticas para testar as variáveis envolvidas;
-- Interpretar e entregar os dados, criando modelos preditivos ou outros tipos de modelos, inclusive retornando para os passos anteriores se necessário. Apresentando os dados utilizando gráficos e visualizações apropriadas e que ajuda a contar a história por trás do dado para que as perguntas iniciais sejam respondidas.
+- **Entender as perguntas formuladas** e definir objetivos para os problemas que precisam ser solucionados;
+- **Obter e definir os dados**, identificando potenciais conjuntos de dados e extraindo de suas fontes geradoras para algum repositório;
+- **Preparar os dados**, examinando e entendendo cada atributo, identificando erros e discrepâncias, valores ausentes ou dados corrompidos. Tudo isso através de um processo de limpeza dos dados, onde alguns podem ser descartados, outros convertidos em outros tipos de dados, e outros mantidos como estão;
+- **Explorar e modelar os dados**, através de segmentação, plotagem das inormações de diferentes formas, identificando padrões, extraindo características e atributos, usando técnicas estatísticas para testar as variáveis envolvidas;
+- **Interpretar e entregar os dados**, criando modelos preditivos ou outros tipos de modelos, inclusive retornando para os passos anteriores se necessário. Apresentando os dados utilizando gráficos e visualizações apropriadas e que ajuda a contar a história por trás do dado para que as perguntas iniciais sejam respondidas.
 
+Os passos acima descrevem o processo geral de trabalho de um cientista de dados. A concepção moderna da Ciência de Dados ou **Data Science** ganhou destaque nos anos 2000 como uma área interdisciplinar voltada para a expansão da estatística para além da teoria, visando sua aplicação para áreas técnicas de forma prática valendo-se de inúmeras tecnologias emergentes e áreas de estudo.
 
 ## Referêcias utilizadas neste post:
 - **Isaac Asimov**, de origem russo-judaica e radicado nos Estados Unidos desde os três anos de idade, foi um dos mais famosos escritores de ficção científica de nosso tempo. Ele conseguiu imaginar e descrever conceitos tecnológicos de forma magistral, se mostrando um visionário em antecipar diversos avanços e dasafios que, até nos dias atuais, se mostram verdadeiros. O conto [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf) foi escrito em 1956.

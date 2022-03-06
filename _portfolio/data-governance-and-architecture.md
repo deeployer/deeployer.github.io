@@ -1,6 +1,6 @@
 ---
 title: "Data Architecture/Governance" 
-excerpt: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals."
+excerpt: "Coming soon..."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-coming-soon.png"

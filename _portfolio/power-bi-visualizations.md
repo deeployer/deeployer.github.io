@@ -1,18 +1,18 @@
 ---
 title: "Power BI visualizations"
-excerpt: "To create the KPIs and reports to understand how the customers consume its products, tracking the behaviour as well as the impact on the customers goals."
+excerpt: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-power-bi-01.png"
 sidebar:
   - title: "client area"
-    text: "Education / Health"
-  - title: "objectives of this job"
-    text: "To create the KPIs and reports to understand how the customers consume its products, tracking the behaviour as well as the impact on the customers goals. Additionally, to understand how to stimulate learning and improve the customer experience on their journey."
+    text: "E-learning / Medical Residency"
+  - title: "objectives of this project"
+    text: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals. Additionally, to understand how to stimulate learning and improve the user experience on their journey."
   - title: "technologies involved"
     text: "Power BI, AWS, Databricks, PostgreSQL and Python"
   - title: "what was deeployed?"
-    text: "A set of dashboards with several visualizations covering different point of views of the data capable of achieve the client's objectives."
+    text: "A set of dashboards with several visualizations covering different point of views of the data capable of achieving the client's objectives."
 gallery:
   - url: "/assets/images/deeployer-website-portfolio-power-bi-01.png"
     image_path: "/assets/images/deeployer-website-teaser-power-bi-01.png"

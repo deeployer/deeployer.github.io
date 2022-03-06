@@ -18,7 +18,7 @@ gallery:
     image_path: "/assets/images/deeployer-website-teaser-databricks-01.png"
     alt: "Visualization sample 1"
   - url: "/assets/images/deeployer-website-portfolio-databricks-02.png"
-    image_path: "/assets/images/deeployer-website-teaser-databricksi-02.png"
+    image_path: "/assets/images/deeployer-website-teaser-databricks-02.png"
     alt: "Visualization sample 2"
   - url: "/assets/images/deeployer-website-portfolio-databricks-03.png"
     image_path: "/assets/images/deeployer-website-teaser-databricks-03.png"

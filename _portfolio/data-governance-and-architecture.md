@@ -3,7 +3,7 @@ title: "Power BI visualizations"
 excerpt: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
-  teaser: "/assets/images/deeployer-website-teaser-power-bi-01.png"
+  teaser: "/assets/images/deeployer-website-teaser-coming-soon.png"
 sidebar:
   - title: "client area"
     text: "Coming soon..."

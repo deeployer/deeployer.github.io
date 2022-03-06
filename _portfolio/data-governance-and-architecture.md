@@ -1,5 +1,5 @@
 ---
-title: "Power BI visualizations"
+title: "Data Architecture/Governance"
 excerpt: "Creating KPIs and reports to understand how the users consume the customers's products, tracking the behaviour as well as the impact on the users goals."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"

@@ -1,6 +1,6 @@
 ---
 title: "Databricks Engineering"
-excerpt: "Defining and developing all the engineering foundation to build the Data Lake ecosystem needed to work with the data sources and visualizations."
+excerpt: "Developing all the engineering foundation to build the Data Lake ecosystem needed to work with the data sources and visualizations."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"
   teaser: "/assets/images/deeployer-website-teaser-databricks-01.png"
@@ -8,7 +8,7 @@ sidebar:
   - title: "client area"
     text: "E-learning / Medical Residency"
   - title: "objectives of this project"
-    text: "Defining and developing all the engineering foundation to build the Data Lake ecosystem needed to work with the data sources and visualizations. In addition, configuring all the clusters following best practices to ensure the best performance and availability."
+    text: "Developing all the engineering foundation to build the Data Lake ecosystem needed to work with the data sources and visualizations. In addition, configuring all the clusters following best practices to ensure the best performance and availability."
   - title: "technologies involved"
     text: "AWS, Databricks, PostgreSQL and Python"
   - title: "what was deeployed?"

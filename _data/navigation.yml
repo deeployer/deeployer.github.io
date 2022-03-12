@@ -25,3 +25,17 @@ about:
       - title: "code of conduct"
         url: "https://deeployer.com/about/#code-of-conduct"
 
+# sidebar menu links
+posts:
+  - title: See the posts
+    children:
+      - title: "By year"
+        url: "/year-archive/"
+      - title: "By categories"
+        url: "/categories/"
+      - title: "By tags"
+        url: "/tags/"
+  - title: Main topics
+    children:
+      - title: "Articles"
+        url: "/categories/#data-science"

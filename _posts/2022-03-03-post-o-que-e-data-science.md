@@ -4,6 +4,8 @@ author: Leandro Daniel
 header:
   image: "/assets/images/deeployer-website-headers-entropy.png"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+categories:
+  - data science
 tags: 
   - data science 101
   - pt-br

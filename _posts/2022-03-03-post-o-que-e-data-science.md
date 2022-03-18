@@ -27,11 +27,11 @@ A conclusão inicial, "Dados insuficientes para resposta significativa" em portu
 
 Passados 66 anos desde que Isaac Asimov escreveu o conto, estima-se que a quantidade de dados gerados por cada indivíduo com um computador ou smarthphone em 2020 foi de 1,7 MB de dados a cada segundo. 
 
-Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados. Até 2025, mais de 200 zettabytes de dados estão armazenados em nuvem no mundo.
+Só de e-mails, diariamente são enviados 306,4 bilhões de mensagens, e no Twitter, cerca de 500 milhões de tweets são publicados. Até 2025, mais de 200 zettabytes de dados estarão armazenados em nuvem no mundo.
 
 Mesmo com essa massiva quantidade de dados sendo gerada na web, ainda não somos capazes de responder como reverter a entropia no universo. Por outro lado, a uma taxa de crescimento exponencial, definitivamente podemos responder a mais perguntas do que somos capazes de formular com os dados disponíveis. A **resposta significativa**, portanto, depende essencialmente de: 
 
-- **Entender as perguntas formuladas** e definir objetivos para os problemas que precisam ser solucionados;
+- **Entender as perguntas formuladas**, definindo objetivos para os problemas que precisam ser solucionados;
 - **Obter e definir os dados**, identificando potenciais conjuntos de dados e extraindo de suas fontes geradoras para algum repositório;
 - **Preparar os dados**, examinando e entendendo cada atributo, identificando erros e discrepâncias, valores ausentes ou dados corrompidos. Tudo isso através de um processo de limpeza dos dados, onde alguns podem ser descartados, outros convertidos em outros tipos de dados, e outros mantidos como estão;
 - **Explorar e modelar os dados**, através de segmentação, plotagem das informações de diferentes formas, identificando padrões, extraindo características e atributos, usando técnicas estatísticas para testar as variáveis envolvidas;

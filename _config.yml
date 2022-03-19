@@ -102,15 +102,15 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/company/deeployer/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/deeployer"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deeployer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deeployer"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/deeployer"
 
 
 # Site Footer
@@ -119,15 +119,15 @@ footer:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/company/deeployer/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/deeployer"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/deeployer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deeployer"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/deeployer"
 
 
 # Reading Files

@@ -1,5 +1,5 @@
 ---
-title: "Data Architecture/Governance" 
+title: "Architecture / Governance" 
 excerpt: "Defining the foundation of Data Architecture patterns and Data Governance discipline in which the company can rely upon all data structure topics and subjects."
 header:
   image: "/assets/images/deeployer-website-headers-portfolio.png"

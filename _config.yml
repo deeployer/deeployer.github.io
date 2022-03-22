@@ -63,6 +63,10 @@ algolia:
 # languages: ["en", "pt"] 
 # permalink: /:categories/:year/:month/:day/:title/
 
+# plugins for this website
+plugins:
+  - jemoji
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

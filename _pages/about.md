@@ -10,7 +10,7 @@ sidebar:
 ---
 # our vision
 
-To make data value human potential to help build a fair and equitable society. 
+To increase human potential through data aiming a fair and equitable society for everybody.
 
 # our values
 
@@ -18,7 +18,7 @@ Enthusiasm, Respect, Integrity and Professionalism.
 
 # our mission
 
-Deeployer is a socially-responsible company, and we are committed to making a substantial contribution towards achieving valuable data science deliverables to our clients. We focus on long-term relationship by having partners more than customers and helping to build an ethical data community.
+Deeployer is a socially-responsible company, and committed to making a substantial contribution through valuable data science deliverables to our clients and society. We focus on long-term relationship by having partners more than customers and helping to build an ethical, democratic and accessible data community.
 
 # code of conduct
 

@@ -10,7 +10,7 @@ sidebar:
 ---
 # our vision
 
-To increase human potential through data aiming a fair and equitable society for everybody.
+To increase human potential through data, aiming a fair and equitable society for everybody.
 
 # our values
 

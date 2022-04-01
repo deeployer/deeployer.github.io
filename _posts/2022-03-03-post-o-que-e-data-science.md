@@ -58,7 +58,7 @@ Algumas das aplicações de Data Science incluem:
 - Análise de Redes Sociais, sendo possível analisar o sentimento das postagens, identificar grupos de usuários, criar relacionamentos e interações entre pessoas...
 - ... e muitas outras possibilidades em todos os campos de fornecimento de serviços e indústrias!
 
-A [Deeployer](mailto:contato@deeployer.com) é uma empresa como um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
+A [Deeployer](mailto:contato@deeployer.com) é uma empresa com um time multidisciplinar de cientistas de dados preparada para atender a todas as suas necessidades de Data Science. 
 
 Entre em [contato](https://deeployer.com/contact/) conosco e nos diga como podemos ajudar a sua empresa a crescer.
 
